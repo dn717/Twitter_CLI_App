@@ -55,6 +55,10 @@ specific options as follows:
 The app is designed based on the MVC architecture and can be subdivided into 3 hierarchical layers, which are controller layer,service layer,
 and data access layer.
 ## UML diagram
+![UML Diagram](assets/UML_Diagram2.png) <br>
+---
+![UML Diagram](assets/UML_Diagram4.png)
+> including methods
 
 ## Each component
 ### App/Main
